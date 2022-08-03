@@ -1,0 +1,6 @@
+The room number is 0 and the treasure subtotal is 13.1.
+The room number is 1 and the treasure subtotal is 17.7.
+The room number is 3 and the treasure subtotal is 20.
+The room number is 5 and the treasure subtotal is 23.2.
+The room number is 7 and the treasure subtotal is 30.
+The total number of rooms searched was 5
