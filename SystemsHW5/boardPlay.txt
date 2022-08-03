@@ -1,0 +1,14 @@
+--b---b-
+--------
+--------
+--------
+--------
+--------
+--------
+-r---r--
+
+Checker 1 is currently at (7,1)
+Checker 1 Possible moves: (6,0) (6,2) 
+Checker 2 is currently at (7,5)
+Checker 2 Possible moves: (6,4) (6,6) 
+CPU moved a checker to row 1 column 1
